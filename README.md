@@ -28,9 +28,9 @@ THEN I understand the codebase
 ## Contributors
 
 | Georgia Milteer
------------- 
-##Google Document Explaing Code
+
+## Google Document Explaing Code
 https://docs.google.com/document/d/1QZRMiLhdEGgADS35JCy0sFEiWkhFbW8yJJfTM7CZ2B0/edit?usp=sharing
 
-## Images
+
 
